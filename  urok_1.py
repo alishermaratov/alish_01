@@ -54,3 +54,6 @@ elif age>=23:
     print('старик')
 elif age<=23:
     print('щигол')
+
+
+print("disaaaaaaaaaaa")
